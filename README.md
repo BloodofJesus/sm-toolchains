@@ -8,10 +8,15 @@ You can get them at https://bitbucket.org/xanaxdroid
 
 4.9 - git clone https://bitbucket.org/xanaxdroid/arm-linux-androideabi-4.9.git
 
+5.1 - git clone https://bitbucket.org/xanaxdroid/arm-linux-androideabi-5.1.git
+
+
 **Kernel**
 
 4.8 - git clone https://bitbucket.org/xanaxdroid/arm-eabi-4.8.git
 
 4.9 - git clone https://bitbucket.org/xanaxdroid/arm-eabi-4.9.git
+
+5.1 - git clone https://bitbucket.org/xanaxdroid/arm-eabi-5.1.git
 
 6.0 - git clone https://bitbucket.org/xanaxdroid/arm-eabi-6.0.git
